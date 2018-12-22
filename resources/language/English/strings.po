@@ -24,43 +24,43 @@ msgid "VPN Configuration"
 msgstr ""
 
 msgctxt "#32001"
-msgid "Set up VPN provider, then validate VPN connections"
+msgid "Configurez le VPN, ensuite validez les connexions"
 msgstr ""
 
 msgctxt "#32002"
-msgid "Enter details, then validate VPN connections"
+msgid "Entrez les détails, ensuite validez les connexions"
 msgstr ""
 
 msgctxt "#32003"
-msgid "[I]*** VPN provider update available, revalidate connections[/I] ***"
+msgid "[I]*** Mise à jour disponible, revalidez les connexions[/I] ***"
 msgstr ""
 
 msgctxt "#32004"
-msgid "Click here to update VPN settings"
+msgid "Cliquez ici pour mettre à jour les paramètres VPN"
 msgstr ""
 
 msgctxt "#32005"
-msgid "VPN Provider"
+msgid "Fournisseur VPN"
 msgstr ""
 
 msgctxt "#32006"
-msgid "User name"
+msgid "Utilisateur"
 msgstr ""
 
 msgctxt "#32007"
-msgid "Password"
+msgid "Mot de passe"
 msgstr ""
 
 msgctxt "#32008"
-msgid "Show password"
+msgid "Afficher mot de passe"
 msgstr ""
 
 msgctxt "#32009"
-msgid "Advanced settings (leave as default if in doubt)"
+msgid "Configuration avancée"
 msgstr ""
 
 msgctxt "#32010"
-msgid "Protocol (UDP recommended)"
+msgid "Protocole (UDP recommandé)"
 msgstr ""
 
 msgctxt "#32011"
@@ -72,31 +72,31 @@ msgid "TCP"
 msgstr ""
 
 msgctxt "#32013"
-msgid "UDP and TCP"
+msgid "UDP et TCP"
 msgstr ""
 
 msgctxt "#32014"
-msgid "Use VPN provider default UDP port"
+msgid "Utiliser le port UDP par défaut du fournisseur VPN"
 msgstr ""
 
 msgctxt "#32015"
-msgid "  Alternative UDP port"
+msgid "  Port UDP alternatif"
 msgstr ""
 
 msgctxt "#32016"
-msgid "Use VPN provider default TCP port"
+msgid "Utiliser le port TCP par défaut du fournisseur VPN"
 msgstr ""
 
 msgctxt "#32017"
-msgid "  Alternative TCP port"
+msgid "  Port TCP alternatif"
 msgstr ""
 
 msgctxt "#32018"
-msgid "[I]User Defined[/I]  provider"
+msgid "[I]Personalisé[/I]  provider"
 msgstr ""
 
 msgctxt "#32019"
-msgid "User Defined import wizard"
+msgid "Assistant d'importation profil personnalisé"
 msgstr ""
 
 msgctxt "#32020"
@@ -104,19 +104,19 @@ msgid "View last User Defined import wizard log"
 msgstr ""
 
 msgctxt "#32021"
-msgid "Manage user name and password"
+msgid "Gérer Utilisateur/Mot de passe"
 msgstr ""
 
 msgctxt "#32022"
-msgid "Manage client or user key and cert files"
+msgid "Gérer client ou clés et certificats"
 msgstr ""
 
 msgctxt "#32023"
-msgid "None"
+msgid "Aucun"
 msgstr ""
 
 msgctxt "#32024"
-msgid "Single"
+msgid "Simple"
 msgstr ""
 
 msgctxt "#32025"
@@ -124,7 +124,7 @@ msgid "Multiple"
 msgstr ""
 
 msgctxt "#32026"
-msgid "Manage key password"
+msgid "Gérer passphrase clé"
 msgstr ""
 
 # VPN Connection Settings
@@ -138,43 +138,43 @@ msgid "Click the boxes below to validate primary VPN connections"
 msgstr ""
 
 msgctxt "#32030"
-msgid "First VPN connection (used to auto connect at start up)"
+msgid "Première connexion VPN (se connecte automatiquement au démarrage)"
 msgstr ""
 
 msgctxt "#32031"
-msgid "Second VPN connection"
+msgid "Deuxième connexion VPN"
 msgstr ""
 
 msgctxt "#32032"
-msgid "Third VPN connection"
+msgid "3ème connexion VPN"
 msgstr ""
 
 msgctxt "#32033"
-msgid "Fourth VPN connection"
+msgid "4ème connexion VPN"
 msgstr ""
 
 msgctxt "#32034"
-msgid "Fifth VPN connection"
+msgid "5ème connexion VPN"
 msgstr ""
 
 msgctxt "#32035"
-msgid "Sixth VPN connection"
+msgid "6ème connexion VPN"
 msgstr ""
 
 msgctxt "#32036"
-msgid "Seventh VPN connection"
+msgid "7ème connexion VPN"
 msgstr ""
 
 msgctxt "#32037"
-msgid "Eighth VPN connection"
+msgid "8ème connexion VPN"
 msgstr ""
 
 msgctxt "#32038"
-msgid "Ninth VPN connection"
+msgid "9ème connexion VPN"
 msgstr ""
 
 msgctxt "#32039"
-msgid "Tenth VPN connection"
+msgid "10ème connexion VPN"
 msgstr ""
 
 
@@ -185,31 +185,31 @@ msgid "Monitor"
 msgstr ""
 
 msgctxt "#32041"
-msgid "VPN monitor (runs as a background service)"
+msgid "Monitoring VPN (s'éxécute en arrière plan)"
 msgstr ""
 
 msgctxt "#32042"
-msgid "Automatically connect to first VPN"
+msgid "Connexion automatique au 1er VPN"
 msgstr ""
 
 msgctxt "#32043"
-msgid "Connect VPN before Kodi starts"
+msgid "Se connecter au VPN avant le démarrage de KODI"
 msgstr ""
 
 msgctxt "#32044"
-msgid "Delay all connections starting (seconds)"
+msgid "Delai de démarrage (secondes)"
 msgstr ""
 
 msgctxt "#32045"
-msgid "Reconnect if connection unexpectedly lost"
+msgid "Reconnecter si la connexion est perdue"
 msgstr ""
 
 msgctxt "#32046"
-msgid "Reconnect if connection lost during playback"
+msgid "Reconnecter si la connexion est perdue pendant la lecture"
 msgstr ""
 
 msgctxt "#32047"
-msgid "Reconnect if connection lost during streaming"
+msgid "Reconnecter si la connexion est perdue pendant le streaming"
 msgstr ""
 
 msgctxt "#32048"
